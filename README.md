@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&height=200&section=header&text=Daniele%20Calisti&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Daniele Calisti Banner" />
+  <img src="https://raw.githubusercontent.com/danielecalisti05/danielecalisti05/main/logoCalisti.png" alt="Daniele Calisti Logo" width="150" />
 </p>
 
 <h3 align="center">Sviluppatore Web Full-Stack | Appassionato di UI/UX & Coding 👋</h3>
